@@ -1,0 +1,25 @@
+Jane Doe
+jane.doe@example.com | (555) 019-2834 | Paris, France
+
+Professional Summary:
+Experienced Python Software Engineer with 6 years of expertise building scalable backend systems, APIs, and microservices. Well-versed in FastAPI, Django, PostgreSQL, Docker, and AWS. Proven track record of optimizing database performance and leading small developer teams.
+
+Skills:
+- Programming: Python, SQL, Bash
+- Frameworks: FastAPI, Django, Flask, Streamlit
+- Databases: PostgreSQL, Redis, MongoDB
+- DevOps: Docker, Git, AWS (S3, EC2, RDS), CI/CD
+
+Work Experience:
+Senior Software Engineer | TechSolutions SAS (2022 - Present)
+- Designed and implemented high-throughput APIs using FastAPI, reducing response latency by 35%.
+- Migrated legacy microservices to a Dockerized infrastructure, streamlining development and deployment.
+- Mentored 3 junior developers and established code review guidelines.
+
+Software Engineer | WebApp Corp (2020 - 2022)
+- Developed backend features for e-commerce platforms using Django and PostgreSQL.
+- Designed database schemas and optimized complex SQL queries, improving page load speeds by 20%.
+
+Education:
+M.S. in Computer Science | Université de Paris (2018 - 2020)
+B.S. in Software Engineering | Université de Paris (2015 - 2018)
